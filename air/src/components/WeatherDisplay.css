@@ -1,0 +1,15 @@
+/* src/components/WeatherDisplay.css */
+.weather-display {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px;
+  }
+  
+  .no-data {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+  }
+  
